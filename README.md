@@ -10,7 +10,7 @@ Thank you for watching My github !<br>
 Have a Nice day !
 </p><br>
 
-<h2 align="center">🌸TECH STACK🌸</h2><hr>
+<h3 align="center">🌸TECH STACK🌸</h3><hr>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">

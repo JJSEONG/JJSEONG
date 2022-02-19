@@ -3,7 +3,7 @@
 </p>
 <br><br><br>
 
-<h1 align="center">WANT TO BE ACREATIVE FRONT-END DEVELOPER</h2><br>
+<h1 align="center">WANT TO BE A CREATIVE FRONT-END DEVELOPER</h2><br>
 <p align="center">
 Hello ! My name is Jongseong👋<br>
 My personality is positive and passionate.<br>

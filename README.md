@@ -13,9 +13,9 @@ Have a Nice day !
 </p><br>
 
 **<h2 align="center">🌸 TECH STACK 🌸</h2>**
-**<h2> 🍀 FRONT END </h2>**
+**<h3> 🍀 FRONT END </h3>**
 
-<h3 style="margin-left: 20px">✨ Publisher</h3>
+<h4 style="margin-left: 20px">✨ Publisher</h4>
 <p style="margin-left: 40px">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -23,7 +23,7 @@ Have a Nice day !
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 </p>
 
-<h3 style="margin-left: 20px">✨ Language</h3>
+<h4 style="margin-left: 20px">✨ Language</h4>
 <p style="margin-left: 40px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
@@ -39,7 +39,7 @@ Have a Nice day !
   <!-- <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> -->
 
-**<h2> ⭐️ Tools </h2>**
+**<h3> ⭐️ Tools </h3>**
 <p style="margin-left: 40px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
@@ -54,7 +54,4 @@ Have a Nice day !
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJSEONG&show_icons=true&theme=dark)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJSEONG&count_bg=%23FFC9F9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>

@@ -36,8 +36,6 @@ Have a Nice day !
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white">
   <img src="https://img.shields.io/badge/Atom Recoil-66595C?style=flat&logo=atom&logoColor=white">
 </p>
-  <!-- <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"> -->
 
 **<h3> ⭐️ Tools </h3>**
 <p style="margin-left: 40px;">
